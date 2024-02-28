@@ -37,7 +37,7 @@ public class Estudiantes2 {
 
     
 
-    public String setEmail(String em) {
+    public String setygetEmail(String em) {
         this.email = em;
         return email;
     }
